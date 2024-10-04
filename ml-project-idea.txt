@@ -1,0 +1,8 @@
+1. Movie Recommendation System 
+2. Sentiment Analysis on Tweets
+3. Image Classification with CNNs
+4. Stock Price Prediction
+5. Face Detection and Recognition
+6. Customer Churn Prediction
+7. Real-time Traffic Prediction
+8. Fraud Detection in Transactions
